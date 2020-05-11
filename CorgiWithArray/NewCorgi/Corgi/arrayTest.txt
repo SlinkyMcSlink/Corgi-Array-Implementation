@@ -1,0 +1,16 @@
+main()
+
+def main()
+  a = array(3)
+  a[1-1] = 2 *3
+  print(a[0])
+  nl()
+  b = array(3)
+  a[1] = 5
+  b[0*2] = a[1] * 2
+  a[1] = 5
+  c = a[1] + b[0]
+  print(c)
+  nl()
+  return 0
+end

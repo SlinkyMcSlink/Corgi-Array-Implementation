@@ -1,0 +1,13 @@
+main()
+
+def main()
+   a = array(100)
+   b = array(100)
+
+   c = 4
+   d = 10
+   
+
+  
+  return 0
+end

@@ -1,0 +1,11 @@
+print(f(3))
+
+def f(a)
+   temp = g(a+10)
+   return temp
+end
+
+def g(x)
+   x = input()
+   return x*x
+end
